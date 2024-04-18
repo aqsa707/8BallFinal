@@ -1,0 +1,36 @@
+html {
+  background-color: navy;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+h1 {
+  font-size: 45px;
+}
+
+body {
+  background-color: rgba(255, 255, 255, 0.5);
+  border-style: solid;
+  border-color: white;
+  border-radius: 15px;
+  width: 600px;
+  margin: 25px auto;
+  padding: 25px 75px;
+}
+
+.ball-img {
+  height: 235px;
+  width: 235px;
+  text-align: center;
+}
+
+.ball-btn {
+  text-align: center;
+}
+
+.ball-btn {
+  color: rgba(255, 255, 255, 0.5);
+}
+
+.extra {
+  font-size: 20px;
+}
